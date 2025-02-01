@@ -43,8 +43,4 @@ The Alumni Management System has been developed with the following key features:
 
 6. Start the frontend and backend servers with these commands: `npm run dev` in `frontend` and `npm start` in `server` folder.
 
-## 🤝 Contributing
 
-Contributions to the Alumni Management System are welcome! If you have any ideas, bug fixes, or improvements, feel free to open an issue or submit a pull request.
-
-Thank you for using the Alumni Management System! If you have any questions or need assistance, please don't hesitate to contact us.
